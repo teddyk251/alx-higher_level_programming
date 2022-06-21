@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 # 102-magic_calculation.py
+# Tewodros Kederalah
 
 
 def magic_calculation(a, b):
